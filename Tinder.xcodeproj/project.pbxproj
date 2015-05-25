@@ -13,6 +13,7 @@
 		D1D49DAC1B136A5C008A3A3C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1D49DAB1B136A5C008A3A3C /* Images.xcassets */; };
 		D1D49DAF1B136A5C008A3A3C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D1D49DAD1B136A5C008A3A3C /* LaunchScreen.xib */; };
 		D1D49DBB1B136A5C008A3A3C /* TinderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1D49DBA1B136A5C008A3A3C /* TinderTests.swift */; };
+		D1D49DC71B138DC0008A3A3C /* user.png in Resources */ = {isa = PBXBuildFile; fileRef = D1D49DC61B138DC0008A3A3C /* user.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D1D49DB41B136A5C008A3A3C /* TinderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TinderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1D49DB91B136A5C008A3A3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D1D49DBA1B136A5C008A3A3C /* TinderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinderTests.swift; sourceTree = "<group>"; };
+		D1D49DC61B138DC0008A3A3C /* user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = user.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				D1D49DA61B136A5C008A3A3C /* ViewController.swift */,
 				D1D49DA81B136A5C008A3A3C /* Main.storyboard */,
 				D1D49DAB1B136A5C008A3A3C /* Images.xcassets */,
+				D1D49DC61B138DC0008A3A3C /* user.png */,
 				D1D49DAD1B136A5C008A3A3C /* LaunchScreen.xib */,
 				D1D49DA21B136A5C008A3A3C /* Supporting Files */,
 			);
@@ -194,6 +197,7 @@
 			files = (
 				D1D49DAA1B136A5C008A3A3C /* Main.storyboard in Resources */,
 				D1D49DAF1B136A5C008A3A3C /* LaunchScreen.xib in Resources */,
+				D1D49DC71B138DC0008A3A3C /* user.png in Resources */,
 				D1D49DAC1B136A5C008A3A3C /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
